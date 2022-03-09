@@ -4,3 +4,5 @@ Following example from https://docs.arduino.cc/learn/electronics/servo-motors
 
 Library used
 - https://github.com/arduino-libraries/Servo/releases/tag/1.1.8
+
+This example shows how to control servos.
